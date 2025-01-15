@@ -1,4 +1,4 @@
-#This helps to import pretty table from the library.
+#This helps to import pretty table from the library. 
 #PrettyTable helps in creating the item names, code, and the price to be in a good table format making it more appealing 
 from prettytable import PrettyTable
 #Labeling each product we have in the vending machine with its price and a id 
